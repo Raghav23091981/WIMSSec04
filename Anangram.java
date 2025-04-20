@@ -23,6 +23,8 @@ public class Anangram
         		return Arrays.equals(strArray1, strArray2);
  	}	
 
+/* Java Main Prorgam to Anagram*/
+
     	public static void main(String[] args)
 	{
         		Scanner sc = new Scanner(System.in);
